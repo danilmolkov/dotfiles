@@ -14,7 +14,7 @@ set number
 set cursorline
 
 " Enable mouse support
-set mouse=a
+" set mouse=a
 
 " Use spaces instead of tabs
 set expandtab
