@@ -46,7 +46,7 @@ set noswapfile
 set updatetime=300
 
 " Set color scheme (you can change it to your preferred theme)
-colorscheme desert
+colorscheme wildcharm
 
 " Better status line
 set laststatus=2
